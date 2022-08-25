@@ -1,0 +1,6 @@
+STT   Contact name              Phonenumber-1      email_address       address
+1	  Kien			            0123456789                                HN
+2	  Sy			            0993456789                                TB
+3	  Tien											hihi@gmail.com        ND
+4	  Huy			            0311111111								  HN
+5     Kien                                          Kien@fsoft.com        HN
